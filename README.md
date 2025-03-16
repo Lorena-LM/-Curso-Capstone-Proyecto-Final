@@ -2,13 +2,13 @@
 Resumen ejecutivo
 En este proyecto final, predeciremos si la primera etapa del Falcon 9 de SpaceX aterrizará con éxito mediante varios algoritmos de clasificación de aprendizaje automático. Los pasos principales de este proyecto incluyen:
 
-Recopilación, gestión y formato de datos
+# Recopilación, gestión y formato de datos
 Análisis exploratorio de datos
 Visualización interactiva de datos
 Predicción de aprendizaje automático
 Nuestros gráficos muestran que algunas características de los lanzamientos de cohetes se correlacionan con su resultado, es decir, su éxito o fracaso. También se concluye que el árbol de decisión podría ser el mejor algoritmo de aprendizaje automático para predecir si la primera etapa del Falcon 9 aterrizará con éxito.
 
-Introducción
+# Introducción
 En este proyecto final, predeciremos si la primera etapa del Falcon 9 aterrizará con éxito. SpaceX anuncia lanzamientos de cohetes Falcon 9 en su sitio web con un costo de 62 millones de dólares; otros proveedores cuestan más de 165 millones de dólares cada uno. Gran parte del ahorro se debe a que SpaceX puede reutilizar la primera etapa. Por lo tanto, si podemos determinar si la primera etapa aterrizará, podemos determinar el costo del lanzamiento. Esta información puede utilizarse si otra empresa desea pujar contra SpaceX por el lanzamiento de un cohete.
 
 La mayoría de los aterrizajes fallidos son planificados. En ocasiones, SpaceX realizará un aterrizaje controlado en el océano. La pregunta principal que intentamos responder es: dadas las características del lanzamiento del cohete Falcon 9, como la masa de la carga útil, el tipo de órbita, el lugar de lanzamiento, etc., ¿aterrizará con éxito la primera etapa del cohete?
